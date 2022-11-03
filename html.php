@@ -26,6 +26,31 @@ function h1($s="")
   return "<h1>$s</h1>";
 }
 
+function h2($s="")
+{
+  return "<h2>$s</h2>";
+}
+
+function h3($s="")
+{
+  return "<h3>$s</h3>";
+}
+
+function h4($s="")
+{
+  return "<h4>$s</h4>";
+}
+
+function h5($s="")
+{
+  return "<h5>$s</h5>";
+}
+
+function h6($s="")
+{
+  return "<h6>$s</h6>";
+}
+
 function p($s="")
 {
   return "<p>$s</p>";
